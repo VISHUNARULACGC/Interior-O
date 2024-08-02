@@ -917,6 +917,9 @@ footer {
 
 
 @media(width < 350px){
+    .first{
+        margin-top:15px;
+    }
   .header__container form{
     margin-bottom: 2rem;
   }
